@@ -1,2 +1,3 @@
 # Cadless.Gitpod
-Testing gitpod
+
+Playground app for learning typescript
